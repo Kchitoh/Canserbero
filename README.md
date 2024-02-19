@@ -8,10 +8,13 @@ se busca comprobar si sus álbumes Vida y Muerte son positivos y negativos respe
 En el repositorio encontrará los siguiente archivos: 
 
 AnexoMuerte.rar: se encuentran las letras de los temas del disco Muerte
+
 AnexoVida.rar: se encuentran las letras de los temas del disco Muerte
 
 Trabajo Final Canserbero: documento central del análisis, donde se expone la idea, los resultados y las conclusiones
+
 TPFinal_NicolasCostante.R: código en R utilizado para el análisis
+
 Presentación trabajo final: PPT que resume el trabajo final
 
 
